@@ -22,7 +22,7 @@ export default function App() {
             <a href="#about" className="hover:text-[#6A99D9] transition-colors">About</a>
             <a href="#impact" className="hover:text-[#6A99D9] transition-colors">Impact</a>
             <a 
-              href="https://kodafriq-fundraiser.netlify.app/" 
+              href="https://www.zeffy.com/en-US/donation-form/donate-to-create-jobs-in-liberia" 
               target="_blank"
               rel="noopener noreferrer"
               className="px-5 py-2.5 bg-[#A5C9FF] text-white rounded-full hover:bg-[#8EBAFF] transition-all shadow-sm"
@@ -55,7 +55,7 @@ export default function App() {
             </p>
             <div className="flex flex-wrap gap-4">
               <a 
-                href="https://kodafriq-fundraiser.netlify.app/" 
+                href="https://www.zeffy.com/en-US/donation-form/donate-to-create-jobs-in-liberia" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-4 bg-[#A5C9FF] text-white rounded-full font-bold text-lg hover:bg-[#8EBAFF] transition-all flex items-center gap-2 shadow-lg shadow-blue-100"
@@ -206,14 +206,14 @@ export default function App() {
             </p>
             <div className="flex flex-col items-center gap-6">
               <a 
-                href="https://kodafriq-fundraiser.netlify.app/"
+                href="https://www.zeffy.com/en-US/donation-form/donate-to-create-jobs-in-liberia"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group px-12 py-6 bg-white text-[#A5C9FF] rounded-full font-bold text-2xl hover:bg-[#F0F7FF] transition-all flex items-center gap-3 shadow-xl inline-flex"
               >
                 Donate <ExternalLink size={24} className="group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
               </a>
-              <p className="text-sm text-[#D9E9FF] font-medium">Secure donation via Kodafriq</p>
+              <p className="text-sm text-[#D9E9FF] font-medium">Secure donation via Zeffy</p>
             </div>
           </div>
           
